@@ -1,7 +1,6 @@
 ---
 title: Shadow Realm
 date: 2025-03-25
-author: shdwcpy
 ---
 
 • Linux Luminarium (Pwn.college)\
